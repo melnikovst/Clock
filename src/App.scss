@@ -3,8 +3,9 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background: url("common/фон-цветы-светлый.jpg");
-  background-size: 300px 300px;
+  background: url('common/фон-стена.jpeg');
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 .App {
@@ -13,6 +14,3 @@ body {
   justify-content: center;
   align-items: center;
 }
-
-
-
